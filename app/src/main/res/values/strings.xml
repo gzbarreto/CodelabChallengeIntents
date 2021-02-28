@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Codelab Challenge Intents</string>
+    <string name="btn_one_txt">Text one</string>
+    <string name="btn_two_txt">Text two</string>
+    <string name="btn_three_txt">Text three</string>
+    <string name="text_one"> First test</string>
+    <string name="text_two"> Second test</string>
+    <string name="text_three"> Third test</string>
+</resources>
